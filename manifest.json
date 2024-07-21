@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "author": "Martin Pecka",
   "homepage_url": "https://github.com/peci1/more-snooze",
   "default_locale": "en",
@@ -13,7 +13,7 @@
     "gecko": {
       "id": "moresnooze@cyrille.nocus",
       "strict_min_version": "78.0",
-      "strict_max_version": "115.*"
+      "strict_max_version": "128.*"
     }
   },
   "experiment_apis": {
